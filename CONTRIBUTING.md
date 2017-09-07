@@ -2,7 +2,7 @@
 
 You can submit a pull request. Any pull requests adding additional fruits or lists are welcome from the students in the class. 
 
-Before you submit a change, check the existing issues and pull requirests
+Before you submit a change, check the existing issues and pull requests
 if they don't already make the change you are submitting.
 
 ## Submit pull request

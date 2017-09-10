@@ -9,15 +9,17 @@ if they don't already make the change you are submitting.
 
 First make sure your name and email are set in your local Git installation:
 
-  git config --global user.name "Your Name"
-  git config --global user.email your@email.com
+```
+git config --global user.name "Your Name"
+git config --global user.email your@email.com
+```
 
 The following steps apply when you never contributed
 to the project before.
 
 1. Fork this repository on GitHub.
 2. This will create a new repository.
-3. Then use Git locally to clone that repository (fork).
+3. Then use Git locally to clone the new repository (aka fork).
 4. Create a new branch (`git checkout -b branch-name`).
 5. Make changes.
 6. Commit the changes.

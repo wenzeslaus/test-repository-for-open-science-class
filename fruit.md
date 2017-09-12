@@ -4,3 +4,4 @@
 * Melon
 * Raspberry
 * Tomato
+* Pear

@@ -6,3 +6,6 @@
 * Tomato
 * Pear
 * Cucumber
+* Acorn
+* Lemon
+

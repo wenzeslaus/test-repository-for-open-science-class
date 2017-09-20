@@ -9,3 +9,4 @@
 * Acorn
 * Lemon
 * Rambutan
+* Apricot

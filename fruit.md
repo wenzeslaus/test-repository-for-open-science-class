@@ -10,3 +10,4 @@
 * Lemon
 * Rambutan
 * Apricot
+* Watermelon

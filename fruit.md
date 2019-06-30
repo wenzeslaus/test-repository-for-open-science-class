@@ -14,3 +14,4 @@
 * Huckleberry
 * Blackberry
 * Dragonfruit
+* Pineapple

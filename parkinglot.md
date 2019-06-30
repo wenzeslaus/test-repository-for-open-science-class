@@ -4,3 +4,4 @@
 * Toyota Rav4
 * Subaru WRX
 * Dodge Caravan
+* Nissan Murano

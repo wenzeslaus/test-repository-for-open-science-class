@@ -15,3 +15,5 @@
 * Blackberry
 * Dragonfruit
 * Pineapple
+* Blueberry
+* Passion fruit

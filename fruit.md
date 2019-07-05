@@ -3,6 +3,7 @@
 * Apple
 * Melon
 * Raspberry
+* Lime
 * Tomato
 * Pear
 * Cucumber

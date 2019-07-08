@@ -5,3 +5,4 @@
 * Subaru WRX
 * Dodge Caravan
 * Nissan Murano
+* Subaru Impreza

@@ -15,4 +15,11 @@
 * Blackberry
 * Dragonfruit
 * Pineapple
+* Blueberry
+* Passion fruit
+* Grapefruit
+* Guava
+* Bannana
+* Jack Fruit
 * Peach
+

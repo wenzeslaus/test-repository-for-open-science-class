@@ -19,3 +19,5 @@
 * Passion fruit
 * Grapefruit
 * Guava
+* Bannana
+* Jack Fruit

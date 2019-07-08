@@ -7,3 +7,4 @@
 * Nissan Murano
 * Jeep Wrangler
 * Subaru Impreza
+* Honda Element

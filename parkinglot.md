@@ -6,3 +6,4 @@
 * Dodge Caravan
 * Nissan Murano
 * Jeep Wrangler
+* Subaru Impreza

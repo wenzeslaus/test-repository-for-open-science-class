@@ -15,3 +15,5 @@
 * Blackberry
 * Dragonfruit
 * Pineapple
+*Bannana
+*Jack Fruit

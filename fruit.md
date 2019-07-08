@@ -15,5 +15,9 @@
 * Blackberry
 * Dragonfruit
 * Pineapple
-*Bannana
-*Jack Fruit
+* Blueberry
+* Passion fruit
+* Grapefruit
+* Guava
+* Bannana
+* Jack Fruit

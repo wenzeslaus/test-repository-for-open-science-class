@@ -8,3 +8,5 @@
 * Jeep Wrangler
 * Subaru Impreza
 * Honda Element
+* Chevrolet Chevette
+
